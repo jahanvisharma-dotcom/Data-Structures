@@ -1,2 +1,2 @@
 # Data-Structures
-this contains programs which is
+this contains programs which is related
